@@ -3,11 +3,14 @@
 This example shows how you can dynamically control the brightness of your application with
 a style binding. In the example I used a slider to set the brightness. 
 
-**Dark**:
+### Dark:
+
 ![dark](black.png)
 
-**Medium**:
+### Medium:
+
 ![medium](grey.png)
 
-**Light**:
+### Light:
+
 ![light](white.png)
