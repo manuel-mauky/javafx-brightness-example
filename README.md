@@ -15,11 +15,14 @@ root.styleProperty().bind(styleString);
 ```
 
 
-**Dark**:
+### Dark:
+
 ![dark](black.png)
 
-**Medium**:
+### Medium:
+
 ![medium](grey.png)
 
-**Light**:
+### Light:
+
 ![light](white.png)
