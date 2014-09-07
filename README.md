@@ -14,6 +14,16 @@ root.styleProperty().bind(styleString);
 
 ```
 
+## Run the example
+
+To run the example you an installed Java in version 8.
+
+```
+cd src
+javac App.java
+java App
+```
+
 
 ### Dark:
 
