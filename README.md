@@ -16,7 +16,7 @@ root.styleProperty().bind(styleString);
 
 ## Run the example
 
-To run the example you an installed Java in version 8.
+To run the example you need an installed JDK in version 8.
 
 ```
 cd src
